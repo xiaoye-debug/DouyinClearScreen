@@ -1,8 +1,8 @@
 Package: com.cookieodd.douyinclearscreen
 Name: DouyinClearScreen
-Version: 1.0.0
+Version: 2.0.0
 Architecture: iphoneos-arm
-Description: 一键隐藏抖音UI元素，提供纯净观看体验。适配抖音 37.6.0
+Description: 一键清屏，走抖音自身的清屏链路。适配抖音 41.0.0
 Maintainer: cookieodd
 Author: cookieodd <cookieodd@github.com>
 Section: Tweaks
